@@ -1,4 +1,10 @@
 # Battlecode 2026 Scaffold - Java
+### Co robi kod?
+Jest to bot przeznaczony do gry w hackathonie Battlecode 2026 od MIT. Generalnie dostajmy od nich API, amy mamy za zadanie napisać jak najlepszego bota, żeby pokonać innych graczy. Braliśmy udział w turnieju tylko tydzień, później niestety nie mieliśmy czasu z uwagi na studia. Po tygodniu nasz peak w rankingu to było top 80 i winratio 50%.
+
+<img width="1599" height="936" alt="image" src="https://github.com/user-attachments/assets/19279d25-9a30-4a54-a969-54b275205d52" />
+
+
 ### Commit 10.01. 0: 40
 Rozdzieliłem to na pare plików, żeby czytelniej kod się czytało, generalnie jak widać są zaimplementowane tylko podstawowe funkcje typi spawnRat, Collector.moveTo etc.. Co sprawia, że kod jest troche głupi i implementuje podstawowe czynności. Trzeba jakieś edgecase'y typu rozpatrywać w nowych wersjach (to-do) 
 
